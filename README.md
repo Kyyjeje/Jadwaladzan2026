@@ -21,9 +21,9 @@ Aplikasi ini didesain menggunakan **Vanilla HTML, CSS, dan Javascript** di sisi 
 ## 🔗 Live Demo
 Coba aplikasi live yang kami jalankan gratis menggunakan *Edge Server* milik Vercel:
 
-👉 **[Jadwal Imsakiyah Online](https://jadwalimsakiyah.vercel.app/)**
+👉 **[Jadwal Imsakiyah Online](https://jadwaladzan.vercel.app/)**
 
-Atau URL alternatif cadangan: [ramadanimsakiyah.vercel.app](https://ramadanimsakiyah.vercel.app/)
+Atau URL alternatif cadangan: [jadwaladzan.vercel.app](https://jadwaladzan.vercel.app/)
 
 ---
 
@@ -34,8 +34,8 @@ Syarat Utama: Pastikan Anda telah menginstal Node.js di komputer Anda.
 
 1. **Clone Repositori Ini:**
    ```bash
-   git clone https://github.com/yontrisnaa/Jadwal-Imsakiyah-Ramadan.git
-   cd Jadwal-Imsakiyah-Ramadan
+   git clone https://github.com/Kyyjeje/Jadwaladzan2026.git
+   cd Jadwaladzan2026
    ```
 
 2. **Jalankan Instalasi Dependency (Local Server)**
